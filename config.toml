@@ -1,1 +1,2 @@
 ./config/_default/config.toml
+baseurl = "https://olialge.github.io/"
